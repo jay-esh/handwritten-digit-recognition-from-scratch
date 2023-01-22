@@ -5,11 +5,11 @@ For this project I used the Eigen library in C++ [link to Eigen Lib](https://eig
 
 Below are the screenshots of the output produced in the terminal:
 
-##Logging of epochs
+## Logging of epochs
 
 ![logging the epochs](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/Screenshot%202022-12-08%20at%2010.12.42%20PM.png)
 
-##Predictions
+## Predictions
 ![Predictions](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing0.png)
 ![Predictions](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing1.png)
 ![Predictions](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing2.png)
