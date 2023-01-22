@@ -1,4 +1,4 @@
-nerualnet.o
+neuralnet.o
 training.o
 project
 readMNIST.o
