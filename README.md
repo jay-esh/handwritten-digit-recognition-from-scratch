@@ -7,10 +7,10 @@ Below are the screenshots of the output produced in the terminal:
 
 ## Logging of epochs
 
-![logging the epochs](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/Screenshot%202022-12-08%20at%2010.12.42%20PM.png)
+<img src="https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/Screenshot%202022-12-08%20at%2010.12.42%20PM.png"  width="60%" height="30%">
 
 ## Predictions
-![Predictions](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing0.png)
-![Predictions](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing1.png)
-![Predictions](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing2.png)
-![Predictions](https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing7.png)
+<img src="https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing0.png"  width="60%" height="30%">
+<img src="https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing1.png"  width="60%" height="30%">
+<img src="https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing2.png"  width="60%" height="30%">
+<img src="https://github.com/jay-esh/handwritten-digit-recognition-from-scratch/blob/main/screenshots/testing7.png"  width="60%" height="30%">
