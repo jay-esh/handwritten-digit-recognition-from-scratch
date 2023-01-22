@@ -1,5 +1,5 @@
-./nerualnet.o
-./training.o
-./project
-./readMNIST.o
-./Eigen
+nerualnet.o
+training.o
+project
+readMNIST.o
+Eigen
