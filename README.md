@@ -1,5 +1,5 @@
 # handwritten-digit-recognition-from-scratch
-My first AI project where I used the MNIST handwritten data to predict handwritten digits. This was a part of my DATASCI 2G03 course at McMaster University
+My first ML project where I used the MNIST handwritten data to predict handwritten digits. This was a part of my DATASCI 2G03 course at McMaster University
 
 For this project I used the Eigen library in C++ [link to Eigen Lib](https://eigen.tuxfamily.org/dox/GettingStarted.html)
 
